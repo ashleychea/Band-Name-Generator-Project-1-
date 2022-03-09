@@ -1,4 +1,4 @@
-# Band-Name-Generator-Project-1- by Ashley Chea done in Python
+# Band-Name-Generator-Project-1- by Ashley Chea 
 
 - The purpose of this project was to use functions such as "print" and "input" to generate a New Band Name based on the city you grew up in and the name of the pet you had when growing up.
 
